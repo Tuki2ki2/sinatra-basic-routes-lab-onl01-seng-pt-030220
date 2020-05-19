@@ -11,7 +11,7 @@ get '/name' do
 end
 
 get '/hometown' do
-  "My homeown is "
+  "My hometown is "
 end
 
 end
