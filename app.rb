@@ -10,4 +10,8 @@ get '/name' do
 "My name is "
 end
 
+get '/hometown' do
+  "Hong Kong"
+end
+
 end
